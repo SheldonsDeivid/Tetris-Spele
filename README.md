@@ -1,1 +1,1 @@
-# Tetris-Spele
+Programmēšanas ieskaites programma: Tetris
